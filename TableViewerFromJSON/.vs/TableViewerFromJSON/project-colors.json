@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4581bdb1-3d90-489f-94a0-de87007f98ce": {
+      "ProjectGuid": "4581bdb1-3d90-489f-94a0-de87007f98ce",
+      "DisplayName": "TableViewerFromJSON",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
