@@ -1,0 +1,11 @@
+F:\Visual Studio Projects\ComponentBasedDemo\TableViewer\TableViewerComponent\bin\Debug\net6.0\TableViewerComponent.deps.json
+F:\Visual Studio Projects\ComponentBasedDemo\TableViewer\TableViewerComponent\bin\Debug\net6.0\TableViewerComponent.dll
+F:\Visual Studio Projects\ComponentBasedDemo\TableViewer\TableViewerComponent\bin\Debug\net6.0\ref\TableViewerComponent.dll
+F:\Visual Studio Projects\ComponentBasedDemo\TableViewer\TableViewerComponent\bin\Debug\net6.0\TableViewerComponent.pdb
+F:\Visual Studio Projects\ComponentBasedDemo\TableViewer\TableViewerComponent\obj\Debug\net6.0\TableViewerComponent.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\ComponentBasedDemo\TableViewer\TableViewerComponent\obj\Debug\net6.0\TableViewerComponent.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\ComponentBasedDemo\TableViewer\TableViewerComponent\obj\Debug\net6.0\TableViewerComponent.AssemblyInfo.cs
+F:\Visual Studio Projects\ComponentBasedDemo\TableViewer\TableViewerComponent\obj\Debug\net6.0\TableViewerComponent.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\ComponentBasedDemo\TableViewer\TableViewerComponent\obj\Debug\net6.0\TableViewerComponent.dll
+F:\Visual Studio Projects\ComponentBasedDemo\TableViewer\TableViewerComponent\obj\Debug\net6.0\ref\TableViewerComponent.dll
+F:\Visual Studio Projects\ComponentBasedDemo\TableViewer\TableViewerComponent\obj\Debug\net6.0\TableViewerComponent.pdb

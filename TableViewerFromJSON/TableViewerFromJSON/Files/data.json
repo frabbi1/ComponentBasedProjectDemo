@@ -1,0 +1,41 @@
+﻿{
+    "Headers": [
+      "Brand",
+      "Price",
+      "Available",
+      "Type"
+    ],
+    "Data": [
+      {
+        "Brand": "Dairy Milk",
+        "Price": "10 Tk",
+        "Available": "Yes",
+        "Type": "Dark" 
+      },
+      {
+        "Brand": "Snickers",
+        "Price": "22 Tk",
+        "Available": "Yes",
+        "Type": "Caramel"
+      },
+      {
+        "Brand": "Perk",
+        "Price": "15 Tk",
+        "Available": "No",
+        "Type": "Light"
+      },
+      {
+        "Brand": "KitKat",
+        "Price": "60 Tk",
+        "Available": "Yes",
+        "Type": "Light"
+      },
+      {
+        "Brand": "Five Star",
+        "Price": "20 Tk",
+        "Available": "No",
+        "Type": "Caramel"
+      }
+    ]
+}
+

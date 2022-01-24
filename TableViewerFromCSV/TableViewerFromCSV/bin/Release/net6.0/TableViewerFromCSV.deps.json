@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TableViewerFromCSV/1.0.0": {
+        "dependencies": {
+          "TableViewerComponent": "1.0.0.0"
+        },
+        "runtime": {
+          "TableViewerFromCSV.dll": {}
+        }
+      },
+      "TableViewerComponent/1.0.0.0": {
+        "runtime": {
+          "TableViewerComponent.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TableViewerFromCSV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TableViewerComponent/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

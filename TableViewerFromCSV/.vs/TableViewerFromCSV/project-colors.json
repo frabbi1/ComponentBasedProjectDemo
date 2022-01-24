@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5880693f-6299-40bb-9fa8-60638d70e4ec": {
+      "ProjectGuid": "5880693f-6299-40bb-9fa8-60638d70e4ec",
+      "DisplayName": "TableViewerFromCSV",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
