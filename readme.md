@@ -18,6 +18,6 @@ The source code of this component can be found in "TableViewer/TableViewerCompon
 
 ## Component Interfaces
 ### Provides Interface:
-There is a method called **ShowTable()** acts like a Provides interface. It is responsible for rendering the table.
+There are two methods called **LoadDataForTable(param)** and **ShowTable()** which act like a Provides interface. LoadDataForTable method is responsible for initializing the table data. On the other hand, ShowTable() method renders the table.
 ### Requires Interface
 There is an Interface called **ITableData** provides the functionality as a Requires interface. Those who uses this component should implement this interface to format their data according to the need of TableViewerComponent.

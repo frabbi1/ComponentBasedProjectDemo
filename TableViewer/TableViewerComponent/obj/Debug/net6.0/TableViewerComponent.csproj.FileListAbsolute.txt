@@ -9,3 +9,4 @@ F:\Visual Studio Projects\ComponentBasedDemo\TableViewer\TableViewerComponent\ob
 F:\Visual Studio Projects\ComponentBasedDemo\TableViewer\TableViewerComponent\obj\Debug\net6.0\TableViewerComponent.dll
 F:\Visual Studio Projects\ComponentBasedDemo\TableViewer\TableViewerComponent\obj\Debug\net6.0\ref\TableViewerComponent.dll
 F:\Visual Studio Projects\ComponentBasedDemo\TableViewer\TableViewerComponent\obj\Debug\net6.0\TableViewerComponent.pdb
+F:\Visual Studio Projects\ComponentBasedDemo\TableViewer\TableViewerComponent\obj\Debug\net6.0\TableViewerComponent.csproj.AssemblyReference.cache

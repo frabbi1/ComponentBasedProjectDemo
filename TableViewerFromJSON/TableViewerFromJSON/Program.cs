@@ -1,5 +1,7 @@
 ﻿using TableViewerComponent;
 using TableViewerFromJSON;
 
-var tableViewer = new TableViewer(new JsonToTableDataParser().ParseData());
+var tableViewer = new TableViewer();
+
+tableViewer.LoadDataForTable(new JsonToTableDataParser().ParseData());
 tableViewer.ShowTable();

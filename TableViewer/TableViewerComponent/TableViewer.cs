@@ -3,8 +3,12 @@
     public class TableViewer
     {
         private int tableWidth = 70;
-        private readonly TableModel _table;
-        public TableViewer(TableModel tableModel)
+        private TableModel? _table;
+        public TableViewer()
+        {
+        }
+
+        public void LoadDataForTable(TableModel tableModel)
         {
             _table = tableModel;
         }
@@ -13,6 +17,12 @@
 
         public void ShowTable()
         {
+            if (_table == null)
+            {
+                Console.WriteLine("No data found!");
+                return;
+            }
+
             Console.Clear();
             PrintLine();
 

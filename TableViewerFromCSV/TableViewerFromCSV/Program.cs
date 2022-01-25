@@ -1,5 +1,7 @@
 ﻿using TableViewerComponent;
 using TableViewerFromCSV;
 
-var tableViewer = new TableViewer(new DataParser().ParseData());
+var tableViewer = new TableViewer();
+
+tableViewer.LoadDataForTable(new DataParser().ParseData());
 tableViewer.ShowTable();
